@@ -18,7 +18,7 @@ public class Controller implements Initializable {
 
     }
     public void showGreeting(ActionEvent event){
-//        System.out.println("Hello World");
+        System.out.println("Hello World");
         greetingLabel.setText("Hello World");
     }
 }
